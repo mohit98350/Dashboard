@@ -1,0 +1,210 @@
+
+
+[
+
+	{
+		"id": 1,
+		"name": "jonny",
+		"imageUrl": "/static/images/students/Avtar_3.png",
+		"school":"Park Mount Public School",
+		"avg": 8.9,
+		"Marks": [
+			{
+				"sub": "Math",
+				"mark": 80
+			},
+			{
+				"sub": "Physics",
+				"mark": 82
+			},
+			{
+				"sub": "Chemistry",
+				"mark": 84
+			},
+			{
+				"sub": "English",
+				"mark": 86
+			},
+			{
+				"sub": "Computer",
+				"mark": 87
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Bairstow",
+		"imageUrl": "/static/images/students/Avtar_2.png",
+		"school":"Dayanand Anglo Vedic High School",
+		"avg": 8.6,
+		"Marks": [
+			{
+				"sub": "Math",
+				"mark": 85
+			},
+			{
+				"sub": "Physics",
+				"mark": 86
+			},
+			{
+				"sub": "Chemistry",
+				"mark": 87
+			},
+			{
+				"sub": "English",
+				"mark": 88
+			},
+			{
+				"sub": "Computer",
+				"mark": 89
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Tokyo",
+		"imageUrl": "/static/images/students/Avtar_1.png",
+		"school":"Delhi Public High School",
+		"avg": 8.5,
+		"Marks": [
+			{
+				"sub": "Math",
+				"mark": 80
+			},
+			{
+				"sub": "Physics",
+				"mark": 88
+			},
+			{
+				"sub": "Chemistry",
+				"mark": 83
+			},
+			{
+				"sub": "English",
+				"mark": 81
+			},
+			{
+				"sub": "Computer",
+				"mark": 88
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Helsinki",
+		"imageUrl": "/static/images/students/Avtar_2.png",
+		"school":" Kendriya Vidyalaya  School",
+		"avg": 8.3,
+		"Marks": [
+			{
+				"sub": "Math",
+				"mark": 80
+			},
+			{
+				"sub": "Physics",
+				"mark": 82
+			},
+			{
+				"sub": "Chemistry",
+				"mark": 84
+			},
+			{
+				"sub": "English",
+				"mark": 88
+			},
+			{
+				"sub": "Computer",
+				"mark": 90
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Bogada",
+		"imageUrl": "/static/images/students/Avtar_5.png",
+		"school":"St.Joseph's Convent High School",
+		"avg": 7.8,
+		"Marks": [
+			{
+				"sub": "Math",
+				"mark": 70
+			},
+			{
+				"sub": "Physics",
+				"mark": 82
+			},
+			{
+				"sub": "Chemistry",
+				"mark": 74
+			},
+			{
+				"sub": "English",
+				"mark": 86
+			},
+			{
+				"sub": "Computer",
+				"mark": 80
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Gandia",
+		"imageUrl": "/static/images/students/Avtar_2.png",
+		"school":"St. Lawrence High School",
+		"avg": 7.6,
+		"Marks": [
+			{
+				"sub": "Math",
+				"mark": 60
+			},
+			{
+				"sub": "Physics",
+				"mark": 83
+			},
+			{
+				"sub": "Chemistry",
+				"mark": 81
+			},
+			{
+				"sub": "English",
+				"mark": 88
+			},
+			{
+				"sub": "Computer",
+				"mark": 87
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Saloni",
+		"imageUrl": "/static/images/students/Avtar_4.png",
+		"school":"St. Miachel High School",
+		"avg": 7.6,
+		"Marks": [
+			{
+				"sub": "Math",
+				"mark": 63
+			},
+			{
+				"sub": "Physics",
+				"mark": 80
+			},
+			{
+				"sub": "Chemistry",
+				"mark": 89
+			},
+			{
+				"sub": "English",
+				"mark": 82
+			},
+			{
+				"sub": "Computer",
+				"mark": 81
+			}
+		]
+	}
+	
+	
+]
